@@ -1,0 +1,16 @@
+.meal{
+    width: 300px;
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 10px;
+}
+.image{
+    width: 250px;
+    margin: 0 auto  20px auto;
+    
+
+}
+.image img{
+    width: 100%;
+    border-radius: 10px;
+}
